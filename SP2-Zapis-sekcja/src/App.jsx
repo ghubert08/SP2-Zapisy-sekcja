@@ -29,7 +29,7 @@ function App() {
         <div className="mb-3">
           <label htmlFor="imieNazwisko" className="form-label">Imię i nazwisko:</label>
           <input
-            type="text"
+            type="text" 
             className="form-control"
             id="imieNazwisko"
             value={imieNazwisko}
